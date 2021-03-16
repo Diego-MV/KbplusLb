@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Diego-MV.github.io/KbplusLb",
   "name": "calculadora-kg-lb",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
